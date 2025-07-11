@@ -13,7 +13,7 @@ I’m passionate about using technology to solve real-world problems — not jus
 
 ###
 
-<img align="right" height="300" src="https://static.wikia.nocookie.net/052cf265-a395-4e51-8dba-812889af7122/scale-to-width/755" alt="Luffy image" />
+<img align="right" height="250" src="https://static.wikia.nocookie.net/052cf265-a395-4e51-8dba-812889af7122/scale-to-width/755" alt="Luffy image" />
 
 ###
 
